@@ -1,1 +1,1 @@
-El `Mover(direccion)` ya sabés cómo usarlo, sólo te resta pensar cómo armar la **condición** para poner en el `if`.
+Ya sabés como usar `Mover`, sólo te resta pensar cómo armar la **condición** para poner en el `if`. Y no te olvidés, solo nos interesa movernos al Este. :arrow_right:
