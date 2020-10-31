@@ -9,11 +9,11 @@ Como no queremos que se termine esta maravillosa lección :face_with_raised_eyeb
 > Definí un procedimiento `DesordenarCelda` que se comporte como te explicamos arriba.
 
 <style>
-  .submission-results h4 {
-    content: "¡Gracias por enviar tu solución!";
-  }
-  
   .notify-problem-box {
     display: none;
   }
 </style>
+
+<script>
+  $(".submission-results h4 strong").text("¡Gracias por enviar tu solución!")
+</script>
