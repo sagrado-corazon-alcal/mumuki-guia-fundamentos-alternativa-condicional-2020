@@ -12,10 +12,7 @@ Como no queremos que se termine esta maravillosa lección :face_with_raised_eyeb
   .notify-problem-box {
     display: none;
   }
+  .submission-results h4 strong :: after {
+    content: "¡Gracias por enviar tu solución!";
+  }
 </style>
-
-<script>
-  $(document).change(() => {
-    $(".submission-results h4 strong").text("¡Gracias por enviar tu solución!")
-  })
-</script>
