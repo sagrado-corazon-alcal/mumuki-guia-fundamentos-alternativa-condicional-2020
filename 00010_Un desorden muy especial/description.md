@@ -7,3 +7,13 @@ Como no queremos que se termine esta maravillosa lección :face_with_raised_eyeb
 ¿Y qué tiene de especial este desorden? :thinking: Aunque como siempre podés enviar tu solución las veces que quieras, **no la vamos a evaluar automáticamente** :open_mouth:. Si querés verla en funcionamiento, ¡te invitamos a que la copies [en la página de Gobstones](https://gobstones.github.io/gobstones-sr/)! 
 
 > Definí un procedimiento `DesordenarCelda` que se comporte como te explicamos arriba.
+
+<style>
+  .submission-results h4 {
+    content: "¡Gracias por enviar tu solución!";
+  }
+  
+  .notify-problem-box {
+    display: none;
+  }
+</style>
