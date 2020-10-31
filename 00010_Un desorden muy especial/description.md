@@ -15,5 +15,7 @@ Como no queremos que se termine esta maravillosa lección :face_with_raised_eyeb
 </style>
 
 <script>
-  $(".submission-results h4 strong").text("¡Gracias por enviar tu solución!")
+  $(document).change(() => {
+    $(".submission-results h4 strong").text("¡Gracias por enviar tu solución!")
+  })
 </script>
