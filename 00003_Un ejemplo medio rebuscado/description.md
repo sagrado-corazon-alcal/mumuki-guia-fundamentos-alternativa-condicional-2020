@@ -4,6 +4,6 @@ En primer lugar, tenemos la **condición**. Por ahora siempre fue `hayBolitas(co
 
 ¿Y qué es la **acción**? Básicamente, cualquier cosa que queramos hacer sobre el tablero. Al igual que en el `repeat`, podemos hacer cuantas cosas se nos ocurran, no necesariamente tiene que ser una sola.
 
-Resumiendo: La **acción** que está dentro de la estructura del `if` podrá realizarse solo si la **condición** es *verdadera*.
+Resumiendo: La **acción** que está dentro de la estructura del `if` podrá realizarse solo cuando la **condición** sea *verdadera*.
 
 > Para ejercitar esto ultimo, te vamos a pedir que definas un procedimiento `CompletarCelda()` que, _si_ ya hay alguna bolita negra, complete la celda poniendo una roja, una azul y una verde.
